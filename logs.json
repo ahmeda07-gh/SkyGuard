@@ -1,0 +1,59 @@
+[
+  {
+    "id": "cvf7EgUm",
+    "t": 1760854184897,
+    "type": "test",
+    "payload": {
+      "msg": "Hello SkyGuard 🚀"
+    },
+    "meta": {}
+  },
+  {
+    "id": "qzm2a9wS",
+    "t": 1760862756200,
+    "type": "copilot_query",
+    "payload": {
+      "q": "AS 348 KSEA KSFO",
+      "etaMin": 82,
+      "distNM": 590,
+      "verdict": "Moderate weather; mild turbulence possible — overall low risk."
+    },
+    "meta": {}
+  },
+  {
+    "id": "9XxTKZvH",
+    "t": 1760866695020,
+    "type": "copilot_query",
+    "payload": {
+      "q": "AS 348 KSEA KSFO",
+      "etaMin": 82,
+      "distNM": 590,
+      "verdict": "Moderate weather; mild turbulence possible — overall low risk."
+    },
+    "meta": {}
+  },
+  {
+    "id": "p6azmpao",
+    "t": 1760867707695,
+    "type": "copilot_query",
+    "payload": {
+      "q": "AS 348 KSEA KSFO",
+      "etaMin": 82,
+      "distNM": 590,
+      "verdict": "Moderate weather; mild turbulence possible — overall low risk."
+    },
+    "meta": {}
+  },
+  {
+    "id": "m1v2bJr1",
+    "t": 1760892839972,
+    "type": "copilot_query",
+    "payload": {
+      "q": "AS 348 KSEA KSFO",
+      "etaMin": 82,
+      "distNM": 590,
+      "verdict": "Moderate weather; mild turbulence possible — overall low risk."
+    },
+    "meta": {}
+  }
+]
