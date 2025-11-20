@@ -1,7 +1,7 @@
-✈️ FlyGuard — Real-Time Aviation Safety Platform
+✈️ SkyGuard — Real-Time Aviation Safety Platform
 
-FlyGuard is an AI-powered aviation safety platform that monitors global airspace in real time.
-It tracks flight paths, detects severe weather, and uses machine-learning forecasting to predict risks before they threaten operations. With live radar, satellite streams, and predictive modeling, FlyGuard visualizes airspace conditions through an interactive global dashboard—helping pilots, dispatchers, and analysts stay one step ahead of the sky.
+SkyGuard is an AI-powered aviation safety platform that monitors global airspace in real time.
+It tracks flight paths, detects severe weather, and uses machine-learning forecasting to predict risks before they threaten operations. With live radar, satellite streams, and predictive modeling, SkyGuard visualizes airspace conditions through an interactive global dashboard—helping pilots, dispatchers, and analysts stay one step ahead of the sky.
 
 🌩️ Key Features
 📡 Real-Time Flight Tracking
