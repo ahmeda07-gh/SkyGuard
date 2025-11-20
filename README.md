@@ -1,13 +1,45 @@
-FlyGuard – Real-Time Aviation Safety Dashboard (Personal Project)
+✈️ FlyGuard — Real-Time Aviation Safety Platform
 
-Built an interactive dashboard called FlyGuard that visualizes global flight paths and weather conditions using publicly available aviation and radar data.
+FlyGuard is an AI-powered aviation safety platform that monitors global airspace in real time.
+It tracks flight paths, detects severe weather, and uses machine-learning forecasting to predict risks before they threaten operations. With live radar, satellite streams, and predictive modeling, FlyGuard visualizes airspace conditions through an interactive global dashboard—helping pilots, dispatchers, and analysts stay one step ahead of the sky.
 
-Integrated live data sources to track flights and display real-time updates on airspace conditions.
+🌩️ Key Features
+📡 Real-Time Flight Tracking
 
-Implemented basic AI-style forecasting logic to flag potential risks based on weather patterns and flight trajectories.
+Live monitoring of commercial, private, and cargo aircraft
 
-Designed a clean, user-friendly UI to display maps, alerts, and status information.
+Updates flight paths with second-level precision
 
-Gained hands-on experience with APIs, data parsing, and organizing a multi-file software project.
+Integrates ADS-B, radar, and satellite telemetry
 
-Strengthened skills in problem-solving, debugging, and translating real-world problems into code.
+🌦️ Severe Weather Detection
+
+Thunderstorms, turbulence, icing, wind shear, and microbursts
+
+High-resolution satellite imagery
+
+Automatic hazard flagging along projected routes
+
+🤖 AI-Driven Risk Forecasting
+
+Machine-learning models predict weather disruptions
+
+Route-specific hazard scoring
+
+Short-term and long-range aviation forecasts
+
+🗺️ Interactive Global Dashboard
+
+3D world map with live airspace visualization
+
+Layer toggles: weather, radar, aircraft density, heatmaps
+
+Timeline playback for past conditions
+
+📊 Analytics & Decision Support
+
+Flight corridor risk summaries
+
+Delay and diversion prediction
+
+Automated alerts for emerging threats
